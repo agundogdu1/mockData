@@ -3,7 +3,7 @@
   "members": [
     {
       "id":1,
-      "parentId":null,
+      "parentId":-1,
       "name": "Molecule Man",
       "age": 29,
       "secretIdentity": "Dan Jukes",
