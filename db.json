@@ -2,16 +2,26 @@
  
   "members": [
     {
+      "id":1,
       "name": "Molecule Man",
       "age": 29,
       "secretIdentity": "Dan Jukes",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "childs": [
+       {
+         "id":12,
+         "name": "Sub1",
+         "age": 29,
+       },
+       {
+         "id":13,
+         "name": "Sub2",
+         "age": 29,
+
+        }
       ]
     },
     {
+      "id":2,
       "name": "Madame Uppercut",
       "age": 39,
       "secretIdentity": "Jane Wilson",
@@ -22,6 +32,7 @@
       ]
     },
     {
+      "id":3,
       "name": "Eternal Flame",
       "age": 1000000,
       "secretIdentity": "Unknown",
