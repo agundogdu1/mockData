@@ -29,7 +29,8 @@
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
-      ]
+      ],
+       "childs": []
     },
     {
       "id":3,
@@ -42,7 +43,8 @@
         "Inferno",
         "Teleportation",
         "Interdimensional travel"
-      ]
+      ],
+       "childs": []
     }
   ]
 }
