@@ -3,6 +3,7 @@
   "members": [
     {
       "id":1,
+      "parentId":null,
       "name": "Molecule Man",
       "age": 29,
       "secretIdentity": "Dan Jukes",
@@ -23,6 +24,7 @@
     {
       "id":2,
       "name": "Madame Uppercut",
+      "parentId":1,
       "age": 39,
       "secretIdentity": "Jane Wilson",
       "powers": [
@@ -34,6 +36,7 @@
     },
     {
       "id":3,
+      "parentId":2,
       "name": "Eternal Flame",
       "age": 1000000,
       "secretIdentity": "Unknown",
