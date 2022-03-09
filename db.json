@@ -1,4 +1,6 @@
-[
+{
+
+ "data": [
   {
     "SORU_NO": "1.00",
     "SORU": "Uçakaltı Timi Hazırlık Durumu",
@@ -154,3 +156,4 @@
     "COLNA": false
   }
 ]
+}
