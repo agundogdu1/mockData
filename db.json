@@ -4,7 +4,6 @@
     "SORU": "Uçakaltı Timi Hazırlık Durumu",
     "COLEVET": false,
     "COLHAYIR": false,
-    "isTitle": true,
     "COLNA": false
   },
   {
@@ -19,7 +18,6 @@
     "SORU": "Uçak Gidiş Hizmetlerine Hazırlık ve Gidiş İşlemleri",
     "COLEVET": false,
     "COLHAYIR": false,
-    "isTitle": true,
     "COLNA": false
   },
   {
@@ -97,7 +95,6 @@
     "SORU": "Push-back Operasyonu Hazırlık ve İşlemleri",
     "COLEVET": false,
     "COLHAYIR": false,
-    "isTitle": true,
     "COLNA": false
   },
   {
@@ -147,7 +144,6 @@
     "SORU": "Ramp Birimi / Postabaşı Görev ve Sorumluluk Bilinci",
     "COLEVET": false,
     "COLHAYIR": false,
-    "isTitle": true,
     "COLNA": false
   },
   {
