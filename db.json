@@ -1,53 +1,160 @@
-{
- 
-  "members": [
-    {
-      "id":1,
-      "parentId":-1,
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "childs": [
-       {
-         "id":12,
-         "name": "Sub1",
-         "age": 29
-       },
-       {
-         "id":13,
-         "name": "Sub2",
-         "age": 29
-
-        }
-      ]
-    },
-    {
-      "id":2,
-      "name": "Madame Uppercut",
-      "parentId":1,
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ],
-       "childs": []
-    },
-    {
-      "id":3,
-      "parentId":2,
-      "name": "Eternal Flame",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ],
-       "childs": []
-    }
-  ]
-}
+[
+  {
+    "SORU_NO": "1.00",
+    "SORU": "Uçakaltı Timi Hazırlık Durumu",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "isTitle": true,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "1.01",
+    "SORU": "Seferde görevli uçakaltı timi gerekli KKD'leri kullanarak, uçak gelmeden park pozisyonunda hazır bulunmuştur.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.00",
+    "SORU": "Uçak Gidiş Hizmetlerine Hazırlık ve Gidiş İşlemleri",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "isTitle": true,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.01",
+    "SORU": "Seferin gidiş bilgileri doğrultusunda hazırlanan Yükleme Planı (LIR) ve özel yük bilgisi Harekât Koordinatörü ile brifing yapılmış akabinde Tim Personeli ile paylaşılmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.02",
+    "SORU": "Yükleme öncesi tüm yüklerin uçak altında görsel ve fiziki hasar kontrolleri yapılmış, eksikler varsa Harekât Koordinatörü ile konuşulup uçakaltına sevki sağlanmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.03",
+    "SORU": "Uçağa yüklenen tüm bagajlar el terminali ile okutulup sisteme girilmiş ve poziyonlanmış (BRS), kargolar iCARGO sistemine girilmiştir.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.04",
+    "SORU": "Tehlikeli madde (DGR) ve özel yükler uluslararası kurallar ve Havayolu prosedür/dokümanlarına uygun yüklenmiş, FKT (EIC) kontrolü yapılıp emniyete alınmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.05",
+    "SORU": "Ambar limitlerine uygun yükleme yapılmış, limit aşımı, ağların bağlanması (ULD uçaklarda konteyner kilitleri), yüklerin sabitlenmesi kontrol edillip görsel ve fiziki (FOD) kontrol yapılmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.06",
+    "SORU": "Ağırlık ve Denge Formu üretilmeden önce son dakika değişikliği var ise Harekât Koordinatörü ile paylaşılmış yapılan tüm değişiklikler yükleme planına yazılmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.07",
+    "SORU": "Kalan yükler görsel ve fiziki olarak kontrol edilmiş, takibi ve bilgilendirilmesi yapılmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.08",
+    "SORU": "Ambar kapakları uçak tiplerine göre (ULD-Bulk) emniyet kurallarına uygun yetkili personel tarafından kapatılmış, tüm ayrılan araçlar marshalling yardımı alarak ERA sahası dışarısına çıkarılmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.09",
+    "SORU": "Tüm servis kapıları kapandıktan sonra dubalar toplanıp düzenli bir şekilde ERA sahası dışına çıkarılmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "2.10",
+    "SORU": "Uçağın frende olduğu bilgisini kokpitten alan harekat koordinatörü \"OK\"i ile takozlar toplanarak belirlenen depolama yerine istiflenmiştir.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "3.00",
+    "SORU": "Push-back Operasyonu Hazırlık ve İşlemleri",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "isTitle": true,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "3.01",
+    "SORU": "Pushback aracı, uçak kapı kapatmadan önce hizmete hazır vaziyette uçağa bağlanmak üzere beklemektedir.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "3.02",
+    "SORU": "Pushback aracı, uçak burnuna stop edilerek bırakılmamıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "3.03",
+    "SORU": "Uçak \"Steering By-Pass Pin\" takılı olduğu görsel olarak kontrol edilmiştir.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "3.04",
+    "SORU": "Pushback aracı (Towcar-Towbar ile ya da Towbarless) uçağa emniyet ve hizmet kurallarına uygun olarak Harekât Koordinatörünün Kaptan ile görüşmesi sonrası OK alarak bağlanmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "3.05",
+    "SORU": "Pushback işlemi sırasında Harekât Koordinatörü ile arasındaki güvenli mesafe korunmakta, pushback işlemi prosedürüne uygun yapılmıştır.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "3.06",
+    "SORU": "Pushback bitiminde aracın ayrılması (Towcar ise önce aracın towcardan ayrılması) emniyet kurallarına göre yapılmaktadır. Pushback aracı beyaz çizginin içine açığa doğru kaptanın görüş mesafesinde durmuştur.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "4.00",
+    "SORU": "Ramp Birimi / Postabaşı Görev ve Sorumluluk Bilinci",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "isTitle": true,
+    "COLNA": false
+  },
+  {
+    "SORU_NO": "4.01",
+    "SORU": "Ramp Birimi / Postabaşı hizmet sürecinde, acil durumlardaki görev ve sorumluluklarını bilmektedir.",
+    "COLEVET": false,
+    "COLHAYIR": false,
+    "COLNA": false
+  }
+]
